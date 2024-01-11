@@ -10,7 +10,7 @@
 
   
 
-- 🌱 I’m currently learning **Machine Learning, NextJs**
+- 🌱 I’m currently learning **React Native, Machine Learning**
 
   
 
