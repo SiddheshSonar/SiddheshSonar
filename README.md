@@ -10,7 +10,7 @@
 
   
 
-- 🌱 I’m currently learning **Flutter, Machine Learning**
+- 🌱 I’m currently learning **Golang Flutter, Machine Learning**
 
   
 
